@@ -30,5 +30,5 @@ I am passionate about data science and machine learning , striving to build inno
 
 
 By the end of this year , 
-  i want to be able to update this board with the complete MERN stack, and projects in 
+  i want to be able to update this board with projects in 
     ML, Visualisation, Data science and PostgreSQL 💫
